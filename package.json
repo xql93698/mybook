@@ -1,0 +1,29 @@
+{
+  "name": "xql_book",
+  "version": "1.0.0",
+  "description": "today is a holiday!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "deploy": "node_modules/.bin/gulp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xql93698/mybook.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "nodejs"
+  ],
+  "author": "xql",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xql93698/mybook/issues"
+  },
+  "homepage": "https://github.com/xql93698/mybook#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
